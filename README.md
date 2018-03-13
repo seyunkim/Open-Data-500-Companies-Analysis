@@ -1,3 +1,3 @@
 # Open-Data-500-Companies-Analysis
 
-Notebook Link: https://goo.gl/YcLQDK
+Notebook Link: [Open 500 Companies and Industries Analysis](https://goo.gl/YcLQDK)
